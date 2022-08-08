@@ -1,0 +1,2 @@
+# Satellite-Image-Classification
+We describe a Deep Learning System for classifying images from the Satellite – Image Classification Dataset into 4 different classes. The system consists of an ensemble of convolutional neural networks and additional neural networks that integrate satellite metadata with image features. It is implemented in Python using the Keras and Tensor Flow Deep Learning libraries.
